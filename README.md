@@ -50,7 +50,7 @@ Para contribuir com o projeto, siga estes passos:
 
 ## Autores
 
-- **Thales Augusto** - **Tarik Sampaio **
+- **Thales Augusto e Tarik Sampaio** 
 
 ## Agradecimentos
 
